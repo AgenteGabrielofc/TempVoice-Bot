@@ -1,6 +1,6 @@
 # TempVoice-Bot
 
-Bot que cria Salas/Canais temporários no Discord, feito com discord.py.
+Bot que cria Salas/Canais de Voz temporários no Discord, feito com discord.py.
 
 Como utilizar:
 
